@@ -4,7 +4,7 @@
   "description": "This is the NodeJS bridge for BAT -- A minimalist tool for building native desktop applications using WEB technologies.",
   "main": "lib/index.js",
   "directories": {
-    "example": "examples"
+    "test": "test"
   },
   "scripts": {
     "test": "node test"
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/bat/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bat"
+  "homepage": "https://github.com/IonicaBizau/bat",
+  "dependencies": {
+    "oargv": "^1.1.0"
+  },
+  "devDependencies": {}
 }
