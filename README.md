@@ -1,4 +1,6 @@
-batjs
+![BatJS](http://i.imgur.com/q1xhk03.png)
+
+BatJs
 =====
 This is the NodeJS bridge for [BAT -- A minimalist tool for building native desktop applications using WEB technologies](https://github.com/IonicaBizau/bat).
 
