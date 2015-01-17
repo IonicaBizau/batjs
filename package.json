@@ -1,0 +1,27 @@
+{
+  "name": "batjs",
+  "version": "1.1.0",
+  "description": "This is the NodeJS bridge for BAT -- A minimalist tool for building native desktop applications using WEB technologies.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonicaBizau/bat.git"
+  },
+  "keywords": [
+    "bat",
+    "web",
+    "desktop"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bat/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/bat"
+}
