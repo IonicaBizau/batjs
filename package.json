@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/bat",
   "dependencies": {
-    "oargv": "^1.1.0"
+    "oargv": "1.x.x"
   },
   "devDependencies": {}
 }
