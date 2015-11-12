@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IonicaBizau/bat.git"
+    "url": "https://github.com/IonicaBizau/batjs.git"
   },
   "keywords": [
     "bat",
@@ -18,9 +18,9 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bat/issues"
+    "url": "https://github.com/IonicaBizau/batjs/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bat",
+  "homepage": "https://github.com/IonicaBizau/batjs",
   "dependencies": {
     "oargv": "^3.2.0"
   },
