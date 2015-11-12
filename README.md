@@ -7,7 +7,7 @@ This is the NodeJS bridge for BAT -- A minimalist tool for building native deskt
 ## Installation
 
 ```sh
-$ npm i -g batjs
+$ npm i batjs
 ```
 
 ## Example
