@@ -1,6 +1,6 @@
 {
   "name": "batjs",
-  "version": "1.3.8",
+  "version": "1.3.9",
   "description": "This is the NodeJS bridge for BAT -- A minimalist tool for building native desktop applications using WEB technologies.",
   "main": "lib/index.js",
   "scripts": {
