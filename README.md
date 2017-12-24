@@ -12,7 +12,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save batjs
+# Using npm
+npm install --save batjs
+
+# Using yarn
+yarn add batjs
 ```
 
 
