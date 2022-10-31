@@ -50,6 +50,7 @@
 
 
 ## :cloud: Installation
+using below commands you can install
 
 ```sh
 # Using npm
@@ -98,7 +99,7 @@ Bat({
 
 ## :question: Get Help
 
-There are few ways to get help:
+There are few ways to get help, Please follow below steps and useful links for setup help.
 
 
 
